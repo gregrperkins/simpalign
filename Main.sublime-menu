@@ -1,0 +1,13 @@
+
+[
+    {
+        "id": "selection",
+        "children": [
+            { "id": "simpalign" },
+            {
+                "command": "simpalign",
+                "caption": "Simpalign"
+            }
+        ]
+    }
+]
