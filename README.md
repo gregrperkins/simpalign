@@ -44,6 +44,14 @@ Hit `⌘ ⌥ l`.
 ].forEach(function (type) {
 ```
 
+### Installation
+
+Paste at a shell:
+
+```shell
+(cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/ && [ -d Simpalign ] || git clone git@github.com:gregrperkins/simpalign.git )
+```
+
 ### References
 
 If you like to get fancy, you're probably looking for:
